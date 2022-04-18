@@ -1,13 +1,13 @@
-h1{
-	color:red;
-	font-size:3em;
-	font-family:Arial;
-	line-height:1;
-	font-weight:200;
-}
 header {
   padding: 60px;
   text-align: left;
   background: #534C53;
   font-size: 30px;
+}
+h1{
+	color:red;
+	font-size:2em;
+	font-family:Arial;
+	line-height:1;
+	font-weight:100;
 }
