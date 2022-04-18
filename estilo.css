@@ -5,45 +5,10 @@ h1{
 	line-height:1;
 	font-weight:900;
 }
-p{
-	font-size:1em;
-	font-family:Arial;
-	line-height:1;
-}
-table{
-	
-	margin-left:15px;
-	
-}
-table a{
-	padding:13px 15px 13px 5px;	
-	
-}
-table a:hover{
-	color:blue;
-	
-}
-.biografia{
-	
-}
-.biografia-h2{
-	
-}
-.obras{
-	
-}
-.obras-h2{
-	
-}
-.referencias{
-	
-}
-.referencias-h2{
-	
-}
-.enlaces{
-	
-}
-.enlaces-h2{
-	
+header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+
+  font-size: 30px;
 }
