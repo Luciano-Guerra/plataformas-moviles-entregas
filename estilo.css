@@ -1,18 +1,18 @@
 header {
-  padding: 60px;
+  padding: 30px;
   text-align: left;
   background: #534C53;
   font-size: 30px;
 }
 h1{
-	color:red;
+	color:"white";
 	font-size:2em;
 	font-family:Arial;
 	line-height:1;
 	font-weight:100;
 }
 div{
-	background-image:https://tenor.com/es/ver/dank-memer-gif-24291191
+	background-image:url(https://tenor.com/es/ver/dank-memer-gif-24291191)
 }
 li{
 	
