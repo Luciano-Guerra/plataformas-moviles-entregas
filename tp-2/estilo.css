@@ -1,4 +1,35 @@
-body { 
-  color: #ee6;
-  backgraund: #222;
+body {
+	background-color: #222;
+	color: #ee6; 
+}
+h1{
+	text-align:center;
+}
+h1, h1, h3{
+	color:#eee;
+}
+p {
+	font-family:sans-serif;
+}
+strong {
+	 border-bottom: 2px solid #fff;
+}
+span.the-force{
+	background-color: #444;
+	font-weight: bolder;
+}
+span.light-side{
+	color:#66f;
+}
+span.dark-side{
+	color:#f33;
+}
+#og-trilogy{
+	list-style-type: circle;
+}
+div.preculas{
+	padding-left:1em;
+}
+div.secuelas{
+	margin-top:2em;
 }
