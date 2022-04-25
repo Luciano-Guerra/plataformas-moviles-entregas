@@ -12,12 +12,20 @@ h1{
 	font-weight:100;
 }
 .centro{
-	background-image: url:("https://tenor.com/es/ver/dank-memer-gif-24291191");
-	background-repeat: no-repeat;
- 	background-attachment: fixed;
- 	background-position: center center;
- 	background-size: cover;
+	width:960px;
+	height:800px;
+	background-image:url("https://c.tenor.com/DX-Cn8J_S4gAAAAi/dank-memer.gif");
 }
 li{
 	
+}
+footer{
+	background-color: #6A5A6A;
+	color:white;
+	padding-top:1.2rem;
+	padding-bottom:1.2rem;
+	display:flex;
+	flex-direction:column;
+	text-align:center;
+	width: 100%;
 }
