@@ -37,3 +37,22 @@ body{
 		width:390px;
 	}
 }
+@media not screen{
+	#wikipedia-logo{
+		display:none;
+	}
+}
+@media (pointer:coarse) {
+	blockquote:hover{
+		background-color:#ccddaa;
+	}
+}
+@media screen(width == height){
+	figure{
+	width: 80%;
+    margin: 5px auto;
+    padding: 5px;
+    border: 1px solid #999;
+    border-radius: 10px;
+	}
+}
