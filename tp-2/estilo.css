@@ -28,7 +28,7 @@ span.dark-side{
 	list-style-type: circle;
 }
 ul.movies-list:nth-of-type(2n){
-	padding-left:1em;
+	padding-left:10em;
 }
 ul.movies-list:nth-of-type(3){
 	margin-top:2em;
